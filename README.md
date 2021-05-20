@@ -1,3 +1,3 @@
 20190068 Woorim Kim
 
-Kookmin Univ. Global Communication
+Kookmin Univ. School of Computer Science
